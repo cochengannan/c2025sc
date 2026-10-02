@@ -1,0 +1,31 @@
+/* LIST #2 */
+#list2 { width:580px; }
+#list2 ol { font-style:italic; font-family:Georgia, Times, serif; font-size:14px; color:#000000F  }
+#list2 ol li { text-align: left; font-style:normal;font-family:Arial;font-size:13px;color:#000000F;border-left: 1px solid #999;}
+#list2 ol li p {text-align: left; font-style:normal;font-family:Arial;font-size:13px;color:#000000F;border-left: 1px solid #999;}
+#list2 ol li p em { display:block; }
+#listv > li:last-child
+{
+    float:right;
+}
+
+#info_new_ul li {
+    float:left;
+    margin-left: 2px;
+    padding: 5px;
+    color: #fff;
+    font-family: trebuchet ms;
+    font-size: 19px;
+    font-weight: lighter;
+    text-align: justify;
+    word-wrap:break-word;
+}
+
+#play_button {
+    position:relative;
+    transition: .5s ease;
+    top: 22px;
+   /* left: -10px; */
+    right: -420px;
+    bottom: -95px;
+}

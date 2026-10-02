@@ -1,0 +1,102 @@
+
+.divc
+{	
+	border-style: solid; border-width: 2px; text-align: center; 
+	vertical-align: middle; line-height: 90PX; height: 94px;
+	width: 143px; font-family: Aharoni; background-color: #9933FF;
+	color: #FFFFFF;position: relative; float: left; top: 129px; left: 10px; padding-top: 1px; margin-top: 2px;
+	padding: 20px;
+	border-radius:25px;
+} 
+ 
+#div2
+{	 
+	border-radius:25px;
+	background: #ddefc5;
+	border-style: solid; border-width: 2px; text-align: center; 
+	vertical-align: middle; line-height: 90PX; height: 94px;
+	width: 143px;
+	color: #FFFFFF;
+	position: relative; float: left; top: 129px; left: 10px; padding-top: 1px; margin-top: 2px;
+	padding: 20px;border-radius:25px;overflow: hidden;text-overflow:ellipsis;white-space: nowrap;
+}
+
+#div3
+{
+	border-style: solid; border-width: 2px; text-align: center;
+	border-radius:25px;
+	background:#ddefc5;
+	margin-left:10px;
+	margin-bottom:5px; 
+	white-space: -moz-pre-wrap;
+	position: relative; float: left; 
+	top: 20px; left:0px; padding-top: 1px; margin-top: 2px;
+	vertical-align: middle;  height: 124px;
+	color: #FFFFFF; 
+	width: 183px;color: #FFFFFF;
+	font-family: Aharoni;
+    font-size: 12px;
+	 -webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	white-space: -moz-pre-wrap;
+  
+}
+#div4
+{
+	border-style: solid; border-width: 2px; text-align: center;
+	border-radius:25px;
+	background: #ddefc5;  
+	white-space: -moz-pre-wrap;
+	position: relative; float: left; top: 2px; left: 10px; padding-top: 1px; margin-top: 2px;
+	vertical-align: middle;  height: 104px;
+	 margin-left:10px;
+	margin-bottom:5px; 
+	width: 153px;color: #FFFFFF;
+	 font-family: Aharoni;
+	 font-size: 12px;
+	 -webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	white-space: -moz-pre-wrap;
+ 
+}
+
+ 
+#div31
+{
+border-style: solid; border-width: 2px; text-align: center;
+	border-radius:25px;
+	background:#ddefc5;
+	margin-left:10px;
+	margin-bottom:5px; 
+	white-space: -moz-pre-wrap;
+	position: relative; float: left; 
+	top: 20px; left:0px; padding-top: 1px; margin-top: 2px;
+	vertical-align: middle;  height: 124px;
+	color: #FFFFFF; 
+	width: 183px;color: #FFFFFF;
+	 font-family: Aharoni;
+	 font-size: 12px;
+	 -webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	white-space: -moz-pre-wrap;
+}
+#div5
+{
+	border-style: solid; border-width: 2px; text-align: center;
+	border-radius:25px;
+	background:#ddefc5;
+	padding:15px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	white-space: -moz-pre-wrap;
+	position: relative; float: left; top:  9px; left: 10px; padding-top: 1px; margin-top: 2px;
+	vertical-align: middle;  height: 104px;
+	color: #FFFFFF; 
+	width: 153px;color: #FFFFFF;
+	 font-family: Aharoni;
+	 font-size: 12px;
+}

@@ -1,0 +1,59 @@
+#wrapper {
+	background: #375114  repeat-y;
+	height: 550px;  
+}
+
+#inner {
+	float: none;
+	width: 724px;
+	margin-left: 1px;
+	display: inline;
+	height: 550px;
+	text-align: center;
+	
+}  
+body {
+	background: #4d662c;
+} 
+html, body, #wrapper, h1 {
+	margin: 0;
+	padding: 0;
+}
+#searchbox {
+	background: #607c3c;
+	padding-top: 240px;
+}
+
+#searchbox form {
+	padding: 8px 0px 20px 35px;
+	margin: 0;
+}
+
+#searchbox table {
+	margin: 0;
+}
+
+#searchbox th {
+	text-align: right;
+	font-weight: normal;
+}
+
+#searchbox .submitrow {
+	text-align: right;
+}
+#callbox{
+	width:132px;
+	height: 46px;
+	background-image:url(images/callbox.gif);
+	padding: 10px 0px 10px 0px;
+	margin: 10px 0px 20px 16px;
+	text-align:center;
+}
+#callbox div{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFFFFF;	
+	padding-top:10px;
+}

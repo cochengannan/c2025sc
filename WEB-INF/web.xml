@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>SU</display-name>
+  <welcome-file-list>
+   
+    <welcome-file>index.jsp</welcome-file>
+     
+  </welcome-file-list>
+ <servlet>
+    <description></description>
+    <display-name>loginserver</display-name>
+    <servlet-name>loginserver</servlet-name>
+    <servlet-class>csc.loginserver</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>loginserver</servlet-name>
+    <url-pattern>/loginserver</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>entry_help</display-name>
+    <servlet-name>entry_help</servlet-name>
+    <servlet-class>csc.entry_help</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>entry_help</servlet-name>
+    <url-pattern>/entry_help</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>viewserv</display-name>
+    <servlet-name>viewserv</servlet-name>
+    <servlet-class>csc.viewserv</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>viewserv</servlet-name>
+    <url-pattern>/viewserv</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>markentry</display-name>
+    <servlet-name>markentry</servlet-name>
+    <servlet-class>csc.markentry</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>markentry</servlet-name>
+    <url-pattern>/markentry</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>data</display-name>
+    <servlet-name>data</servlet-name>
+    <servlet-class>csc.data</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>data</servlet-name>
+    <url-pattern>/data</url-pattern>
+  </servlet-mapping>
+</web-app>
